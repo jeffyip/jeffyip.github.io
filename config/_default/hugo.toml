@@ -1,4 +1,4 @@
-baseURL = 'https://jeffyip.org'
+baseURL = 'https://jeffyip.github.io'
 languageCode = 'en-us'
 title = "Jeff Yip's Blog"
 theme = 'hugo-theme-stack'
