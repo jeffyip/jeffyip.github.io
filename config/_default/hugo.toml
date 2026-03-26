@@ -1,0 +1,12 @@
+baseURL = 'https://jeffyip.org'
+languageCode = 'en-us'
+title = "Jeff Yip's Blog"
+theme = 'hugo-theme-stack'
+defaultContentLanguage = 'en'
+
+[pagination]
+    pagerSize = 5
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
